@@ -49,9 +49,11 @@ If it works, and you appreciate this, please give it a star.
 ）
 
 
-# How to build by yourself 自己编译驱动（TODO）
+# How to build by yourself 自己编译驱动 ~（TODO）~
 
-等有时间了简要写写，to be done
+~等有时间了简要写写，to be done~
+编译过程见[https://github.com/fanhuanji/rtl8125-driver-for-unraid-6.8.2/blob/main/compile_drivers.md]()。时间过久，凭印象写的，希望能用，，
+
 
 
 ![Emby硬解无问题](https://github.com/fanhuanji/rtl8125-driver-for-unraid-6.8.2/raw/main/res/20201222165854.png)
